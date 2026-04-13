@@ -1,4 +1,4 @@
-# LeetCede75
+# LeetCode75
 LeetCode 75 study plan 
 
 <!---LeetCode Topics Start-->
