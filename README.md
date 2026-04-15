@@ -22,6 +22,7 @@ LeetCode 75 study plan
 | [0443-string-compression](https://github.com/sele01/LeetCode75/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sele01/LeetCode75/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/sele01/LeetCode75/tree/master/1768-merge-strings-alternately) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sele01/LeetCode75/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@ LeetCode 75 study plan
 | [0334-increasing-triplet-subsequence](https://github.com/sele01/LeetCode75/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/sele01/LeetCode75/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sele01/LeetCode75/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sele01/LeetCode75/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Greedy
 |  |
 | ------- |
