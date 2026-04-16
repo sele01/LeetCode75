@@ -36,6 +36,7 @@ LeetCode 75 study plan
 | [0283-move-zeroes](https://github.com/sele01/LeetCode75/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sele01/LeetCode75/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/sele01/LeetCode75/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/sele01/LeetCode75/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sele01/LeetCode75/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sele01/LeetCode75/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sele01/LeetCode75/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -61,4 +62,8 @@ LeetCode 75 study plan
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sele01/LeetCode75/tree/master/1679-max-number-of-k-sum-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sele01/LeetCode75/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
