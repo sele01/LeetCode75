@@ -39,6 +39,7 @@ LeetCode 75 study plan
 | [0485-max-consecutive-ones](https://github.com/sele01/LeetCode75/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/sele01/LeetCode75/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sele01/LeetCode75/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/sele01/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sele01/LeetCode75/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sele01/LeetCode75/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sele01/LeetCode75/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -52,6 +53,7 @@ LeetCode 75 study plan
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sele01/LeetCode75/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/sele01/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,5 +70,10 @@ LeetCode 75 study plan
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sele01/LeetCode75/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/sele01/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sele01/LeetCode75/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/sele01/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
