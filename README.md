@@ -41,6 +41,7 @@ LeetCode 75 study plan
 | [0643-maximum-average-subarray-i](https://github.com/sele01/LeetCode75/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sele01/LeetCode75/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sele01/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/sele01/LeetCode75/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sele01/LeetCode75/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sele01/LeetCode75/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sele01/LeetCode75/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -68,6 +69,7 @@ LeetCode 75 study plan
 ## Hash Table
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/sele01/LeetCode75/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sele01/LeetCode75/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sele01/LeetCode75/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
